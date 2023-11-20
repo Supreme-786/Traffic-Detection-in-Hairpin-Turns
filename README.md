@@ -10,7 +10,6 @@
 Prepared by 
 Ankit Kumar[2105179]
 Pritam Khan[2105729]
-Anirban Roy [21051629]
 Shubhangi Dutta[21051439]
 Akash Roy [21051199]
 Sapeksh [21051248]
